@@ -7,4 +7,5 @@ The page is created for big screens i.e, laptops, PCs only.
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>Netlify</li>
 </ul>
